@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category name_1",
-      "preview": "https://avatars.mds.yandex.net/i?id=2d0b0389ddc1716081a6bb371f855101a82b1de8-12544737-images-thumbs&n=13",
+      "name": "nextbot in backrooms wallpaper_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=ef8c187360b753a3532cea515f356cbb5bc7cb7a-8999179-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=ef6c01eed3e10c8a038e5265d2045d04216da3b8-10878270-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=f41f69afd4b04d1451245f157a687a26e1015d11-6879826-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=9ef176f93979e69d8e8e4877b357d8b941966c9d-4275701-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=38be4f9cf93232e7772874128b493995d2ae40fa-4570664-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=0fb0e1b1673709f84d1a4ea713f2fe38cf539d4a-10350336-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=38be4f9cf93232e7772874128b493995d2ae40fa-4570664-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=ab20b3c121c53ea1ccd0f11728b8e90f9b8f5d07-6903367-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=4a2041899e860d5482f3e7e668550a613cd3e7fa-4495446-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=a2770638d866b08bd8bdb94d61cd53e5-5233966-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=4f1c37627968d5b9f1dd548d3e88e34616f855b6-4550718-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=cc929d02ce26ff5077c2f88fab37d8fe072735c4-11271031-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=6c5050b963340651c5c5b3b4e35b443b-5433793-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=57818919ae4e9fa55c268cca3e5e258ffca6199d-7989082-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=49fba181d753f800ed3f920e09a898112dccea7a-12621680-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=85ad171a19660d05fb54d26562332047385f62c5-12585680-images-thumbs&n=13"
+          "category": "nextbot in backrooms wallpaper_1",
+          "path": "https://avatars.mds.yandex.net/i?id=2c2ef689f76d89a2b3e460405a625618328d8a54-8497450-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "nextbot in backrooms wallpaper_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=cf5747d4740ffdc2cc56c71cb244824cfefb69b4-4290022-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=89dd4e56e88faf496560f57d2fd64bcb5af1d03f-5754670-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=cf5747d4740ffdc2cc56c71cb244824cfefb69b4-4290022-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=86bdad9bcd822b15976ae5a06fad9b0c5a88d334-10355097-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=86bdad9bcd822b15976ae5a06fad9b0c5a88d334-10355097-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=29f793fda665d1d94e0b62d093e2115b460b6c5b-9242682-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=061808928d1ec0e92acf5d857234f7e297b95c62-12261047-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=86bdad9bcd822b15976ae5a06fad9b0c5a88d334-10355097-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_2",
+          "path": "https://avatars.mds.yandex.net/i?id=74a3f7398c9f5b81dede379ada03cbd34aa9c4d3-4476958-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "nextbot in backrooms wallpaper_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=29f793fda665d1d94e0b62d093e2115b460b6c5b-9242682-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=86bdad9bcd822b15976ae5a06fad9b0c5a88d334-10355097-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=a5581db1b462bf1b6c73593027bfc2f9e89a4fa2-8183104-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=9902101b21f52b1a1de19913ccd83f7ab83cb9d7-10653212-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=571fc1f6a98061b242c5f0643c00875a1568c1db-4012162-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=123a8b7dd59d288ef1d09404603031807f534583-6390812-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6b3f79c70918b51e46509df1ea163240966ec837-10878080-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=852fe1843bd43e8792d0cc1b2427dd353965af70-5714527-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot in backrooms wallpaper_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3ab5b73df080ddb246384f7663b8ace733111d7e-4285597-images-thumbs&n=13"
         }
       ]
     },
